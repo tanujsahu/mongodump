@@ -1,0 +1,6 @@
+mongo db backup :-
+https://www.mongodb.com/try/download/database-tools
+download this file and extract :-----------------
+open mongodump folder ,
+see dump folder all database backup are available here 
+
